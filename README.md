@@ -39,7 +39,7 @@
 
 <h4>📊 Stats </h4>
 
-![cristina-recasens's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniolmorenobatlle&show_icons=true&theme=gruvbox)
+![cristina-recasens's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristina-recasens&show_icons=true&theme=gruvbox)
 
 <br>
 
