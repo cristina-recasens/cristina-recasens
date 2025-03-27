@@ -3,9 +3,9 @@
 
 <br />
 
-- 🔭 I’m currently working in IRTA
-- 🌱 I’m a biologist, so I have knowladge in science!
-- 💻 I’m currently learning Python, R, Data Base Analyzing and JavaScript
+- 🔭 I’m currently working at IRTA.
+- 🌱 I’m a biologist, so I have knowledge in science!
+- 💻 I’m currently learning Python, R, Database Analysis, and JavaScript.
 - 📫 How to reach me: cristina.recasens13@gmail.com
 -->
 
