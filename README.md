@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on IRTA
 - 🌱 I’m a biologist, so I have knowladge in science!
-- 💻 I’m currently learning Python and Data Base Analyzing
+- 💻 I’m currently learning Python, R and Data Base Analyzing
 - 📫 How to reach me: cristina.recasens13@gmail.com
 -->
 
