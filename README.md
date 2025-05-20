@@ -12,7 +12,14 @@
 
 <br />
 
-<h3>🧰 Languages and Tools </h3>
+<h3>💬​Spoken Languages </h3>
+<ul>
+<li>Català (CA) </li>
+<li>Español (ES) </li>
+<li>English (EN) </li>
+</ul>
+
+<h3>🧰 Programing Languages and Tools </h3>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
