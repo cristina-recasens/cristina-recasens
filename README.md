@@ -46,5 +46,5 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarecasens&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarecasens&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
